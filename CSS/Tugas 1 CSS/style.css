@@ -1,0 +1,13 @@
+p{
+    font-size: 18px;
+    color: blue;
+}
+img{
+    width: 3%;
+    float:left;
+    margin-right:5px;
+}
+
+header{
+    overflow: hidden;
+}

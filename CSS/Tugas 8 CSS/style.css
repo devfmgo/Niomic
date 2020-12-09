@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background-image: url("Stupa_Borobudur.jpg");
+    background-size: cover;
+}
+div{
+    margin-top:2em;
+    background:url("avocado.jpg");
+    background-repeat: repeat-y;
+    background-color: #fff;
+    border: 2px solid black;
+    width:60em;
+    height: 18em;
+    overflow: auto;
+}
+
+.satu{
+    color:blue;
+    font-size: 1em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    font-weight: bold;
+    margin-top:1em;
+}
+.dua{
+    color:green;
+    font-size: 1em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    font-weight: bold;
+    margin-top:1em;
+}
+
+.tiga{
+    color:red;
+    font-size: 1em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    font-weight: bold;
+    margin-top:1em;
+}

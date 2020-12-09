@@ -1,0 +1,19 @@
+.p_satu{
+    background-color: chocolate;
+    border: 1px solid black;
+}
+.p_dua{
+    background-color: blue;
+    color: white;
+    border: 1px solid whitesmoke;
+}
+.p_tiga{
+    border: 1px solid whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+.p_empat{
+    background-color: darkgray;
+    font-weight: bold;
+    border: 1px solid black;
+}

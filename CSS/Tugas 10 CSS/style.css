@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.main{
+width:960px;
+height: 800px;
+margin:0 auto;
+background-image:radial-gradient(circle at top right,white,pink,red);
+}
+
+.satu{
+    width:500px;
+    height:500px;
+    margin: 0 auto;
+    background-image: radial-gradient(farthest-side at 50% 100%,white,blue);
+}
+
+.dua{
+    width:500px;
+    height:200px;
+    margin: 0 auto;
+    background-image: radial-gradient(farthest-side circle at 0% 50%, white,blue,white);
+}
